@@ -1,32 +1,32 @@
 export const flashcardData = [
-    {"question": "What's the difference between a Simple and Prepared JDBC statement?",
-      "answer": "an"
+    {"question": "What's a Prepared Statement?",
+      "answer": "A precompiled SQL statement that prevents SQL injection."
     },
-    {"question": "What is SQL Injection and how can we prevent it using the JDBC?",
-      "answer": "ans"
+    {"question": "How can we prevent SQL Injection using JDBC?",
+      "answer": "Use Prepared Statements or parameterized queries."
     },
     {"question": "What is a foreign key?",
-      "answer": "an"
+      "answer": "A column that links to a primary key in another table."
     },
     {"question": "What is referential integrity?",
-      "answer": "a"
+      "answer": "Ensures foreign keys match primary keys in related tables."
     },
     {"question": "What is normalization?",
-      "answer": "an"
+      "answer": "Organizing data to reduce redundancy and improve integrity."
     },
     {"question": "What is multiplicity?",
-      "answer": "a"
+      "answer": "Defines the relationship cardinality between entities in UML."
     },
     {"question": "What's the difference between a join and a set operation?",
-      "answer": "ans"
+      "answer": "Joins combine rows; set operations combine result sets."
     },
     {"question": "What is a view and how is it useful?",
-      "answer": "a"
+      "answer": "A virtual table that simplifies complex queries."
     },
     {"question": "What is HTTP?",
-      "answer": "an"
+      "answer": "A protocol for transferring hypertext over the web."
     },
     {"question": "What are common HTTP verbs used when a client application is making a request?",
-      "answer": "answ"
+      "answer": "GET, POST, PUT, DELETE, PATCH."
     }
-  ]
+];
