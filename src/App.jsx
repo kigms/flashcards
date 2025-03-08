@@ -8,7 +8,7 @@ const App = () => {
   //and returns it for useState?
   const [currentFlashcard, setNextFlashcard] = useState(0);
   let flashcard = flashcardData[currentFlashcard];
-
+  
   function handlePreviousClick() {
     setNextFlashcard(currentFlashcard - 1);
   }
