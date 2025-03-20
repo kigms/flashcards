@@ -30,8 +30,6 @@ Uploaded directly with submission.
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux.
 
 ## Notes
@@ -92,7 +90,7 @@ Submitted gif file directly. I hope that's OK.
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-[peek](https://github.com/phw/peek) for Linux. -->
+[peek](https://github.com/phw/peek) for Linux.
 
 ## Notes
 
